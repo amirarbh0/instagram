@@ -123,5 +123,3 @@ php artisan optimize
 This project is licensed under the **MIT License**.
 
 ---
-
-If you want to customize or add modules, tell me and I will update the README! 🚀
